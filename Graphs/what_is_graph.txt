@@ -1,0 +1,13 @@
+Complex relationships can be shown with the help of graphs data structures.
+GRAPHS consists of NODES and EDGES.
+Graph is set or ordered or unordered pair of vertices and edges.
+
+G=(V,E) represent a graph G with vertices V and edges E.
+
+Types of graphs on the basis of edges.
+Directed and undirected graphs.
+
+In directed graph a logical directed edge is formed i.e the edges are ordered.
+They are unidirectional or they have direction
+
+In undirected graph a logical undirected edge is formed i.e the edges

@@ -10,7 +10,9 @@ struct ListNode{
     ListNode(int x,ListNode *next): val(x), next(next) {};
 }
 
-void addNodeToList(ListNode)
+void addNodeToList(ListNode){
+    
+}
 
 int main(){
 
