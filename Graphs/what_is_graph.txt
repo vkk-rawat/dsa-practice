@@ -11,3 +11,9 @@ In directed graph a logical directed edge is formed i.e the edges are ordered.
 They are unidirectional or they have direction
 
 In undirected graph a logical undirected edge is formed i.e the edges
+
+
+HOW TO TRAVERSE A GRAPH:-----------
+
+DFS 
+In Depth first search all the nodes at the  
